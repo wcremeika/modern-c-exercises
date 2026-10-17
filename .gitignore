@@ -1,0 +1,21 @@
+# Compiled Object code and executables
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# Dynamic and Static Libraries
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+
+# Common Java/Python/Other Binaries
+*.class
+*.pyc
+*.pyo
+*.jar
+
+bin/
